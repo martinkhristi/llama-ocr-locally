@@ -1,4 +1,4 @@
-# llama-ocr-locally
+# llama-OCR-locally
 Llama OCR is a powerful Streamlit app that extracts structured text from images using the Llama 3.2 Vision model. It offers an intuitive interface to upload images, process them, and view the extracted text in a clear, well-organized Markdown format.
 🌟 Features
 Easy Upload: Drag and drop your image (PNG, JPG, or JPEG) for analysis.
